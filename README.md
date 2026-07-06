@@ -1,16 +1,32 @@
-## Hi there 👋
+# Hi there, I'm Oleh 👋 | DevOps & Infrastructure Engineer
 
-<!--
-**oleg-cpu/oleg-cpu** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Experienced Systems Administrator transitioning into DevOps. I have a solid foundation in Linux infrastructure management, OS administration, and networking, combined with hands-on experience building modern, production-ready CI/CD pipelines and Cloud architecture.
 
-Here are some ideas to get you started:
+Currently focusing on expanding my expertise in Cloud-native technologies, automation, and Infrastructure as Code (IaC).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🛠️ Tech Stack & Tools
+
+*   **Cloud Providers:** AWS (EC2, VPC, RDS, Security Groups)
+*   **Infrastructure as Code (IaC):** Terraform
+*   **Configuration Management:** Ansible
+*   **Containers & Orchestration:** Docker, Docker Compose
+*   **CI/CD & Automation:** GitHub Actions, GHCR
+*   **Web Servers & Proxies:** Nginx
+*   **OS & Scripting:** Linux (Ubuntu/CentOS), Bash, Python 3.13
+*   **Databases:** PostgreSQL, SQLite
+
+---
+
+## 🚀 Featured DevOps Projects
+
+### 📋 [Astera Task Management Deployment](https://github.com/oleg-cpu/Astera)
+A production-ready Django application deployed on AWS infrastructure using modern DevOps practices.
+*   **IaC:** Provisioned full network topology (VPC, EC2, RDS) using **Terraform**.
+*   **Configuration Management:** Automated Docker installation, Nginx reverse proxy setup, and secrets injection using **Ansible**.
+*   **CI/CD:** Designed a two-stage **GitHub Actions** pipeline (Linting/Testing with Ruff/Mypy, and Automated Docker Build-and-Push to GHCR).
+---
+
+## 📫 Connect with me
+*   **LinkedIn:** [LinkedIn](https://www.linkedin.com/in/arshava-oleg/)
